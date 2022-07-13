@@ -34,8 +34,7 @@ Wildlife Animals Identification
            
      This creates the myenv environment in /envs/. No packages will be installed in this environment.
 
-     !Note:
-Replace myenv with the environment name or or directory path.
+    
        
 3.Activating an environment
   
@@ -43,12 +42,17 @@ Replace myenv with the environment name or or directory path.
        
            conda activate myenv
        
+       !Note:
+Replace myenv with the environment name or or directory path.
+
 4.Install Python packages
-   * Tensorflow==1.13.1
-   * Keras==2.2.5
-   * h5py==2.10.0
-   * mrcnn
-   * EEL
+
+    * Tensorflow==1.13.1
+    * Keras==2.2.5
+    * h5py==2.10.0
+    * mrcnn
+    * EEL
+   
  Install the required packages by executing the following command.
 
        pip install (package name)
@@ -57,6 +61,6 @@ Replace myenv with the environment name or or directory path.
   
            $ pip install numpy
            
-    Make sure pip is linked to Python
+   Make sure pip is linked to Python
     
-    Using Python virtual environment is highly recommended.
+   Using Python virtual environment is highly recommended.
