@@ -64,3 +64,7 @@ Replace myenv with the environment name or or directory path.
    Make sure pip is linked to Python
     
    Using Python virtual environment is highly recommended.
+
+## Help
+
+If you are facing any difficulty, feel free to create a new issue or reach out on [Linkedin](https://www.linkedin.com/in/karthik-v-926656211/)
